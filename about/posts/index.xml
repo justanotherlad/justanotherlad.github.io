@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Swastik Banerjee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2020 16:20:55 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Aug 2020 21:40:55 +0530</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,12 @@
     <item>
       <title>About</title>
       <link>/posts/about/</link>
-      <pubDate>Mon, 29 Jun 2020 16:20:55 +0530</pubDate>
+      <pubDate>Fri, 19 Aug 2020 21:40:55 +0530</pubDate>
       
       <guid>/posts/about/</guid>
-      <description>&amp;#34;Life is Complex. It has Real and Imaginary parts.&amp;#34;   Hi, I’m Swastik, but you’ll often find me as justanotherlad on the Internet. I’m a Computer Science undergraduate currently, majoring in Information Technology.
+      <description>&amp;#34;Life is Complex. It has Real and Imaginary parts.&amp;#34;   Hi, I’m Swastik, but you’ll often find me as justanotherlad on the Internet. I have been working as a full-time Software Developer at Wolfram Research since 2021. I have completed my undergraduation in Computer Science, with major in Information Technology.
 My primary interests are Algorithms, Cryptography, Discrete Maths and Music-making.
-I&amp;rsquo;m also trying to explore other areas of computer science and security, and I aim to pursue some kind of research in Theoretical CS in my future (phew,let&amp;rsquo;s see).</description>
+I&amp;rsquo;m also trying to explore other areas of computer science and security.</description>
     </item>
     
   </channel>
