@@ -6,7 +6,7 @@
     <description>Recent content on Swastik Banerjee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Aug 2022 21:43:55 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 22:36:55 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,12 +14,12 @@
     <item>
       <title>About</title>
       <link>/posts/about/</link>
-      <pubDate>Fri, 19 Aug 2022 21:43:55 +0530</pubDate>
+      <pubDate>Fri, 21 Jul 2023 22:36:55 +0530</pubDate>
       
       <guid>/posts/about/</guid>
-      <description>&amp;#34;Life is Complex. It has Real and Imaginary parts.&amp;#34;   Hi, I’m Swastik, but you’ll often find me as justanotherlad on the Internet. I have been working as a full-time Software Developer at Wolfram Research since 2021. I have completed my undergraduation in Computer Science, with major in Information Technology.
-My primary interests are Algorithms, Cryptography, Discrete Maths and Music-making.
-I&amp;rsquo;m also trying to explore other areas of computer science and security.</description>
+      <description>&amp;#34;Life is Complex. It has Real and Imaginary parts.&#34;   Hi, I’m Swastik, but you’ll often find me as justanotherlad on the Internet. I have been working as the Search Engineer at Wolfram Research since 2021 where my work is focused on improving Search Relevance, Ranking and building transformer based models for Search for the documentation of Mathematica(software) and other wolfram org. websites in collaboration with the Web and core ML team; prior to this I was a Summer Researcher followed by an Intern at Wolfram. I also worked briefly with IBM Research on Differential Privacy and Multi-Party Computation. I have completed my undergraduation in Computer Science, with major in Information Technology.
+My primary interests are Information Retrieval (tangentially related to NLP), Conversational systems, Applied Cryptography, Discrete Mathematics and Music-making.
+I&rsquo;m also trying to explore other areas of computer science and cyber-security.</description>
     </item>
     
   </channel>
